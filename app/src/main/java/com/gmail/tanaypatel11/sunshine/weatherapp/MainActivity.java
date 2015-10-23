@@ -1,5 +1,6 @@
 /*
 Tanay Patel
+MainActivity file will handle the ForcastGragment and SettingsActivity, it will also handle the ActionBar related actions.
  */
 package com.gmail.tanaypatel11.sunshine.weatherapp;
 
